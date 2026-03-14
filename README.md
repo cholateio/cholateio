@@ -1,16 +1,39 @@
-## Hi there 👋
+## 🎯 My Project Collection
 
-<!--
-**cholateio/cholateio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello 👋 This repo is basically a **hub** for all my projects.  
+I’ve grouped things into four main collections:
+- 🤖 Bots / Tools
+- 🌐 Websites
+- 📺 Streaming / Media 
+- 🎨 Startup
 
-Here are some ideas to get you started:
+Each project includes a short intro + main skills/tech I used. Please enjoy ~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤖 Bots / Tools
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
+
+---
+
+## 🌐 Websites
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
+| [Image Gallery Component](https://github.com/cholateio/image-gallery) | An image gallery component for Next.js. | **Next.js**, Supabase, GCP | Oct, 2025 |
+| [Life Tracker](https://github.com/cholateio/life-tracker) | A full-stack, mobile-first personal tracking system | **Next.js**, Supabase, GCP | Mar, 2026 |
+
+---
+
+## 📺 Streaming / Media
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
+| [Virtual Music Clock](https://github.com/cholateio/virtual-music-clock) | Desktop clock responds visually to music. | **Electron**, Websocket | Mar, 2026 |
+
+---
+
+## 🎨 Startup / Components
+| Project | What it does | Skills / Tech | Time |
+|---------|--------------|---------------|------|
+
+---
