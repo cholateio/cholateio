@@ -37,5 +37,5 @@ Each project includes a short intro + main skills/tech I used. Please enjoy ~
 | Project | What it does | Skills / Tech | Time |
 |---------|--------------|---------------|------|
 | [Image Gallery Component](https://github.com/cholateio/image-gallery) | An image gallery component for Next.js. | **Next.js**, Supabase, GCP | Oct, 2025 |
-
+| [Todo List App](https://github.com/cholateio/todo-list) | A todo component for Next.js. | **Next.js**, Supabase | Mar, 2026 |
 ---
