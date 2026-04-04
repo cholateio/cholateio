@@ -20,7 +20,6 @@ Each project includes a short intro + main skills/tech I used. Please enjoy ~
 ## 🌐 Websites
 | Project | What it does | Skills / Tech | Time |
 |---------|--------------|---------------|------|
-| [Sekai Archive](https://github.com/cholateio/sekai-archive) | An Intelligent Event Strategy Assistant for Project Sekai. | **Next.js**, Supabase, OpenAI | Mar, 2026 |
 | [Life Tracker](https://github.com/cholateio/life-tracker) | A full-stack, mobile-first personal tracking system | **Next.js**, Supabase, GCP | Mar, 2026 |
 
 ---
