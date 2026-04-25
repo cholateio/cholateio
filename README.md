@@ -37,4 +37,5 @@ Each project includes a short intro + main skills/tech I used. Please enjoy ~
 |---------|--------------|---------------|------|
 | [Image Gallery Component](https://github.com/cholateio/image-gallery) | An image gallery component for Next.js. | **Next.js**, Supabase, GCP | Oct, 2025 |
 | [Todo List App](https://github.com/cholateio/todo-list) | A todo component for Next.js. | **Next.js**, Supabase | Mar, 2026 |
+| [Multi-Agent Starter](https://github.com/cholateio/multi-agent-starter) | A starter for claude code + gemini + codex. | **AI Agent** | Mar, 2026 |
 ---
