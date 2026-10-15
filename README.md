@@ -21,8 +21,6 @@ A 3D listening room for the virtual singer **KAF (花譜)**.
   <img src="assets/kaf-mobile-player.webp" width="30%" alt="Player">
 </p>
 
-<p align="center"><a href="https://kaf-observatory.vercel.app"><b>▶ Try it live</b></a></p>
-
 ---
 
 ## 🤖 Bots / Tools
