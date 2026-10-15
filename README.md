@@ -10,10 +10,10 @@ Hello 👋 This repo is basically a **hub** for all my projects. Please enjoy ~
   <img src="assets/kaf-hero.webp" width="100%" alt="KAF Observatory — a 3D desk where the lamp and clock pulse to KAF's music">
 </a>
 
-A 3D listening room for the virtual singer **KAF (花譜)** and KAMITSUBAKI.
+A 3D listening room for the virtual singer **KAF (花譜)**.
 
-- 🖥️ **Desktop** — the wall monitor plays KAF's MVs while the lamp and clock pulse to the music, driven by per-frame spectrum data pre-analyzed by [Song Analysis](https://github.com/cholateio/song-analysis).
-- 📱 **Mobile** — an ON AIR schedule for the members' streams, and a 245-track player that keeps playing as you browse.
+- 🖥️ **Desktop** — MVs on the wall monitor, with the lamp and clock pulsing to the music.
+- 📱 **Mobile** — a live-stream schedule and a 245-track player.
 
 <p align="center">
   <img src="assets/kaf-mobile-hub.webp" width="30%" alt="Mobile hub">&nbsp;
@@ -24,8 +24,6 @@ A 3D listening room for the virtual singer **KAF (花譜)** and KAMITSUBAKI.
 <p align="center"><a href="https://kaf-observatory.vercel.app"><b>▶ Try it live</b></a></p>
 
 ---
-
-> 🔒 = private repo — the link goes to the live site instead.
 
 ## 🤖 Bots / Tools
 | Project | What it does | Time |
@@ -41,18 +39,18 @@ A 3D listening room for the virtual singer **KAF (花譜)** and KAMITSUBAKI.
 | Project | What it does | Time |
 |---------|--------------|------|
 | [Life&nbsp;Tracker](https://github.com/cholateio/life-tracker) | A full-stack, mobile-first personal tracking system | Mar&nbsp;2026 |
-| [Portfolio](https://cholate.dev)&nbsp;🔒 | My personal portfolio site. | Dec&nbsp;2025 |
-| [Blog](https://blog.cholate.dev)&nbsp;🔒 | A minimal zh-TW tech blog. | Jul&nbsp;2026 |
-| [Sekai&nbsp;Archive](https://sekai-archive.vercel.app)&nbsp;🔒 | An LLM agent + RAG event strategy assistant for Project Sekai. | Mar&nbsp;2026 |
-| [Casepick](https://casepick.pages.dev)&nbsp;🔒 | A signal station that auto-collects "what people built with AI" from X, deduped and bilingual. | Jul&nbsp;2026 |
-| [Eureka](https://eureka-2l0.pages.dev)&nbsp;🔒 | A Chinese parallel reader for real analysis — 45 sections of definitions, theorems and proofs. | Jul&nbsp;2026 |
+| [Portfolio](https://cholate.dev) | My personal portfolio site. | Dec&nbsp;2025 |
+| [Blog](https://blog.cholate.dev) | A minimal zh-TW tech blog. | Jul&nbsp;2026 |
+| [Sekai&nbsp;Archive](https://sekai-archive.vercel.app) | An LLM agent + RAG event strategy assistant for Project Sekai. | Mar&nbsp;2026 |
+| [Casepick](https://casepick.pages.dev) | A signal station that auto-collects "what people built with AI" from X, deduped and bilingual. | Jul&nbsp;2026 |
+| [Eureka](https://eureka-2l0.pages.dev) | A Chinese parallel reader for real analysis — 45 sections of definitions, theorems and proofs. | Jul&nbsp;2026 |
 
 ---
 
 ## 📺 Streaming / Media
 | Project | What it does | Time |
 |---------|--------------|------|
-| [KAF&nbsp;Observatory](https://kaf-observatory.vercel.app)&nbsp;🔒 | ↑ Featured above. | Apr&nbsp;2026 |
+| [KAF&nbsp;Observatory](https://kaf-observatory.vercel.app) | ↑ Featured above. | Apr&nbsp;2026 |
 | [Swarm&nbsp;Clock](https://github.com/cholateio/swarm-clock) | Swarm clock responds visually to music. | Mar&nbsp;2026 |
 | [Virtual&nbsp;Music&nbsp;Clock](https://github.com/cholateio/virtual-music-clock) | Desktop clock responds visually to music. | Mar&nbsp;2026 |
 
