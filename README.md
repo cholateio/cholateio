@@ -1,17 +1,31 @@
 ## 🎯 My Project Collection
 
-Hello 👋 This repo is basically a **hub** for all my projects.  
-I’ve grouped things into four main collections:
-- 🤖 Bots / Tools
-- 🌐 Websites
-- 📺 Streaming / Media 
-- 🎨 Startup
-
-Each project includes a short intro. Please enjoy ~
-
-> 🔒 = private repo — the link goes to the live site instead.
+Hello 👋 This repo is basically a **hub** for all my projects. Please enjoy ~
 
 ---
+
+## ⭐ Featured — KAF Observatory
+
+<a href="https://kaf-observatory.vercel.app">
+  <img src="assets/kaf-hero.webp" width="100%" alt="KAF Observatory — a 3D desk where the lamp and clock pulse to KAF's music">
+</a>
+
+A 3D listening room for the virtual singer **KAF (花譜)** and KAMITSUBAKI.
+
+- 🖥️ **Desktop** — the wall monitor plays KAF's MVs while the lamp and clock pulse to the music, driven by per-frame spectrum data pre-analyzed by [Song Analysis](https://github.com/cholateio/song-analysis).
+- 📱 **Mobile** — an ON AIR schedule for the members' streams, and a 245-track player that keeps playing as you browse.
+
+<p align="center">
+  <img src="assets/kaf-mobile-hub.webp" width="30%" alt="Mobile hub">&nbsp;
+  <img src="assets/kaf-mobile-onair.webp" width="30%" alt="ON AIR schedule">&nbsp;
+  <img src="assets/kaf-mobile-player.webp" width="30%" alt="Player">
+</p>
+
+<p align="center"><a href="https://kaf-observatory.vercel.app"><b>▶ Try it live</b></a></p>
+
+---
+
+> 🔒 = private repo — the link goes to the live site instead.
 
 ## 🤖 Bots / Tools
 | Project | What it does | Time |
@@ -38,7 +52,7 @@ Each project includes a short intro. Please enjoy ~
 ## 📺 Streaming / Media
 | Project | What it does | Time |
 |---------|--------------|------|
-| [KAF&nbsp;Observatory](https://kaf-observatory.vercel.app)&nbsp;🔒 | A 3D desk scene for the virtual singer KAF: music visualization, translated posts and a stream schedule. | Apr&nbsp;2026 |
+| [KAF&nbsp;Observatory](https://kaf-observatory.vercel.app)&nbsp;🔒 | ↑ Featured above. | Apr&nbsp;2026 |
 | [Swarm&nbsp;Clock](https://github.com/cholateio/swarm-clock) | Swarm clock responds visually to music. | Mar&nbsp;2026 |
 | [Virtual&nbsp;Music&nbsp;Clock](https://github.com/cholateio/virtual-music-clock) | Desktop clock responds visually to music. | Mar&nbsp;2026 |
 
