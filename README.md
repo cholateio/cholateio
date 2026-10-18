@@ -50,6 +50,7 @@ A 3D listening room for the virtual singer **KAF (花譜)**.
 | Project | What it does | Time |
 |---------|--------------|------|
 | [KAF&nbsp;Observatory](https://kaf-observatory.vercel.app) | ↑ Featured above. | Apr&nbsp;2026 |
+| [LiveRiver](https://live-river.vercel.app) | Paste any YouTube or Twitch channel and see when it goes live, on one timeline in your time zone. | Oct&nbsp;2026 |
 | [Swarm&nbsp;Clock](https://github.com/cholateio/swarm-clock) | Swarm clock responds visually to music. | Mar&nbsp;2026 |
 | [Virtual&nbsp;Music&nbsp;Clock](https://github.com/cholateio/virtual-music-clock) | Desktop clock responds visually to music. | Mar&nbsp;2026 |
 
