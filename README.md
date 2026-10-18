@@ -30,6 +30,7 @@ A 3D listening room for the virtual singer **KAF (花譜)**.
 | [Song&nbsp;Analysis](https://github.com/cholateio/song-analysis) | YouTube ingest + audio analysis pipeline: per-frame spectrum blobs for 3D visualization. | Apr&nbsp;2026 |
 | [Sekai&nbsp;Border](https://github.com/cholateio/sekai-border) | Crawls Project Sekai event rankings (Top 100 + border lines) every 5 minutes. | Mar&nbsp;2026 |
 | [YT&nbsp;Summary](https://github.com/cholateio/yt-summary) | Turns YouTube videos into zh-TW key-point articles that land in my knowledge base. | Jul&nbsp;2026 |
+| [RepoBox](https://github.com/cholateio/repobox) | Saves GitHub repos from your phone's share sheet; your own Claude subscription writes a plain-language intro and an architecture diagram for each. | Oct&nbsp;2026 |
 
 ---
 
