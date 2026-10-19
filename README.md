@@ -31,6 +31,7 @@ A 3D listening room for the virtual singer **KAF (花譜)**.
 | [Sekai&nbsp;Border](https://github.com/cholateio/sekai-border) | Crawls Project Sekai event rankings (Top 100 + border lines) every 5 minutes. | Mar&nbsp;2026 |
 | [YT&nbsp;Summary](https://github.com/cholateio/yt-summary) | Turns YouTube videos into zh-TW key-point articles that land in my knowledge base. | Jul&nbsp;2026 |
 | [RepoBox](https://github.com/cholateio/repobox) | Saves GitHub repos from your phone's share sheet; your own Claude subscription writes a plain-language intro and an architecture diagram for each. | Oct&nbsp;2026 |
+| [Arch&nbsp;Blueprint](https://github.com/cholateio/arch-blueprint) | An agent skill that draws a one-page, blueprint-style architecture diagram of any repo, checked by a script. | Oct&nbsp;2026 |
 
 ---
 
@@ -61,5 +62,5 @@ A 3D listening room for the virtual singer **KAF (花譜)**.
 |---------|--------------|------|
 | [Image&nbsp;Gallery&nbsp;Component](https://github.com/cholateio/image-gallery) | An image gallery component for Next.js. | Oct&nbsp;2025 |
 | [Todo&nbsp;List&nbsp;App](https://github.com/cholateio/todo-list) | A todo component for Next.js. | Mar&nbsp;2026 |
-| [Multi-Agent&nbsp;Starter](https://github.com/cholateio/multi-agent-starter) | A starter for claude code + gemini + codex. | Mar&nbsp;2026 |
+| [Multi-Agent&nbsp;Starter](https://github.com/cholateio/multi-agent-starter) | A Claude Code workflow kit: Codex cross-model review, review gates and retry breakers. | Mar&nbsp;2026 |
 ---
