@@ -9,13 +9,13 @@ The GitHub profile README for the `cholateio` account: a hub page that introduce
 
 - Language / framework: Markdown + inline HTML, rendered by GitHub on the profile page
 - Services: none
-- Test: none (no code); preview the rendered README on GitHub, and check that every relative image path in `README.md` and `README.zh-TW.md` exists under `assets/`
+- Test: none (no code); preview the rendered README on GitHub, and check that every relative image path in `README.md` and `README.en.md` exists under `assets/`
 
 ## File layout
 
-- `README.md` — the profile page (featured project, then tables grouped by kind)
-- `README.zh-TW.md` — Traditional Chinese (Taiwan) translation of `README.md`
-- `assets/` — images referenced by `README.md` and `README.zh-TW.md` (webp)
+- `README.md` — the profile page in Traditional Chinese (featured project, then tables grouped by kind)
+- `README.en.md` — English translation of `README.md`
+- `assets/` — images referenced by `README.md` and `README.en.md` (webp)
 
 ## Constraints
 
@@ -27,8 +27,8 @@ The GitHub profile README for the `cholateio` account: a hub page that introduce
 
 - Commit messages: `docs: ...` (for example `docs: add <project> to the tools table`).
 - Table rows: project link, one sentence on what it does, month and year started.
-- `README.md` and `README.zh-TW.md` mirror each other (English / Traditional Chinese); update both in the same commit.
+- `README.md` (Traditional Chinese, default) and `README.en.md` (English) mirror each other; update both in the same commit.
 
 ## Where to look
 
-- `README.md` and `README.zh-TW.md` — the only content files (English and Traditional Chinese)
+- `README.md` and `README.en.md` — the only content files (Traditional Chinese and English)
