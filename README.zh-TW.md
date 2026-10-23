@@ -1,4 +1,4 @@
-🌐 個人網站：**[cholate.dev](https://cholate.dev)** · [English](README.md) | **繁體中文**
+🌐 個人網站：**[cholate.dev](https://cholate.dev)** · 🔤 語言：[English](README.md) | **繁體中文**
 
 ## 🎯 我的專案集
 
