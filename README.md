@@ -1,6 +1,4 @@
-🌐 Personal website: **[cholate.dev](https://cholate.dev)**
-
-**English** | [繁體中文](README.zh-TW.md)
+🌐 Personal website: **[cholate.dev](https://cholate.dev)** · **English** | [繁體中文](README.zh-TW.md)
 
 ## 🎯 My Project Collection
 
